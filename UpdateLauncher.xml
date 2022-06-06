@@ -2,5 +2,5 @@
 <item>
   <version>1.0.0.3</version>
   <url>https://github.com/tsuuzetsu/Update/blob/main/Launcher.zip</url>
-  <mandatory mode="2">true</mandatory>
+  <mandatory>false</mandatory>
 </item>
